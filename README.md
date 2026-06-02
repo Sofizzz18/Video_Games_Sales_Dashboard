@@ -6,8 +6,7 @@ An interactive Excel dashboard project focused on analyzing global video game sa
 
 ## 📊 Dashboard Preview
 
-> (https://github.com/Sofizzz18/Video_Games_Sales_Dashboard/blob/main/screenshot.png)
-
+>![Screenshot](Screenshot.png)
 ---
 
 ## ✨ Features
